@@ -86,8 +86,5 @@ src/main/resources/
 4. Push to the branch (`git push origin feature/YourFeature`)
 5. Create a Pull Request
 
-## License
-This project is licensed under the MIT License.
-
 ## Contact
 For questions or support, open an issue or contact the repository owner.
